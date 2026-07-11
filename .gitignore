@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# n8n credentials
+*.sqlite
+database.sqlite
+
+# Node
+node_modules/
+
+# Temporary files
+*.tmp
